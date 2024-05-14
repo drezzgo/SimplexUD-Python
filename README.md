@@ -1,4 +1,4 @@
-#SimplexUD
+# SimplexUD
 ## Método Gráfico & Simplex con Python
 
 Esta aplicación es una herramienta para resolver problemas de programación lineal, ofreciendo a los usuarios la capacidad de elegir entre métodos gráficos y Simplex. Está diseñada para ser intuitiva y fácil de usar, tanto para estudiantes como para profesionales.
